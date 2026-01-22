@@ -20,7 +20,7 @@ Welcome to the central node. This profile orchestrates the convergence of Biolog
 
 ### 📡 Current Signal
 *Generating non-deterministic data via analog methods.*
-* **Location:** Beloiel, Québec
+* **Location:** Beloeil, Québec
 * **Signal Type:** High-Entropy Biological
 
 ---
