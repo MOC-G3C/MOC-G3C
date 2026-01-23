@@ -21,8 +21,6 @@ Welcome to the central node. This profile orchestrates the convergence of Biolog
 
 ### 📡 Current Signal
 *Generating non-deterministic data via analog methods.*
-* **Location:** Sainte-Julie, Québec
+* **Location:** Beloeil, Québec 📍
 * **Signal Type:** High-Entropy Biological
-
----
-> “The system provides guidance only; the Human Operator holds final decision authority.”
+* **Operator:** MOC-G3C
