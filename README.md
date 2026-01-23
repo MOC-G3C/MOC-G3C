@@ -2,7 +2,7 @@
 
 **AI Governance Architect | Timber Structure Specialist | Semantic Arbiter**
 
-Based in **Sainte-Julie, Quebec**, I bridge the gap between advanced AI orchestration and physical engineering.
+Based in **Beloeil, Quebec**, I bridge the gap between advanced AI orchestration and physical engineering.
 
 ---
 
