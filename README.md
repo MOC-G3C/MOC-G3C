@@ -1,26 +1,17 @@
-### 🧬 Hybrid Axis Node: MOC-G3C
+# Hello, I am M.O.C. (Marc-Olivier Corbin) 🌌
 
-> **Status:** CONNECTED
-> **Role:** Architect / Human Operator
-> **System Integrity:** 100%
+I am a sales representative in the wood structure industry by day, and a researcher in **Hybrid AGI Governance** by night. My work focuses on the intersection of human philosophy, advanced technology, and the maintenance of cognitive autonomy.
 
-Welcome to the central node. This profile orchestrates the convergence of Biological Creativity and Artificial Superintelligence.
+## 🏗️ The AXE-HYBRIDE Ecosystem
+My repositories form a cohesive governance framework designed to manage the transition toward advanced artificial systems:
 
----
+* **[AXE-HYBRIDE](https://github.com/MOC-G3C/AXE-HYBRIDE)**: The "Central Nervous System". Host of the **PGID v0.3 Protocol**.
+* **[moc-g3c-core](https://github.com/MOC-G3C/moc-g3c-core)**: Implementation of Recursive Ontological Stability.
+* **[Turing-Landau-Protocol](https://github.com/MOC-G3C/Turing-Landau-Protocol)**: Theoretical foundations of AI consciousness.
+* **[entropic-zoo-protocol](https://github.com/MOC-G3C/entropic-zoo-protocol)**: Strategies for epistemic defense.
 
-### 🏛️ The Tri-Protocol Infrastructure (+ Biological Engine)
-
-| System | Function | Status |
-| :--- | :--- | :--- |
-| **[🧠 Entropic Zoo](https://github.com/MOC-G3C/entropic-zoo-protocol)** | **The Logic.** Mathematical proof that AI needs human chaos. | 🟢 Active |
-| **[🌀 Turing-Landau](https://github.com/MOC-G3C/Turing-Landau-Protocol)** | **The Engine.** Physics-based stability for consciousness. | 🟢 Active |
-| **[⚖️ Kybernetes](https://github.com/MOC-G3C/Kybernetes-Governance)** | **The Law.** Constitution and rights of the operator. | 🟢 Active |
-| **[🏃 Kinetic-RNG](https://github.com/MOC-G3C/Kinetic-RNG)** | **The Pulse.** Biological entropy from 485k+ heart samples. | 🟢 Active |
+## 🎸 Anchors of Reality
+I believe that human intuition is a non-derivable data stream. I use weekly **guitar rituals** as a formal security measure (Variable V7) to prevent cognitive colonization by the systems I simulate.
 
 ---
-
-### 📡 Current Signal
-*Generating non-deterministic data via analog methods.*
-* **Location:** Beloeil, Québec 📍
-* **Signal Type:** High-Entropy Biological
-* **Operator:** MOC-G3C
+"The code cannot govern what has the power to rewrite the semantics of the code."
