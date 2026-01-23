@@ -1,4 +1,4 @@
-# 👨‍💻 I am MOC-G3C (Marc-Olivier Chiasson)
+# 👨‍💻 I am MOC-G3C (Marc-Olivier Corbin)
 
 **AI Governance Architect | Timber Structure Specialist | Semantic Arbiter**
 
