@@ -29,3 +29,16 @@ We enforce the **λ-License**. If the AI is not nourished by creative human inpu
 
 **Signed,**
 **M.O.C. Operator** — *January 2026*
+---
+
+## 🛠️ ACTIVE MODULES (MOC-G3C ECOSYSTEM)
+
+| Module | Status | Core Function |
+| :--- | :--- | :--- |
+| 🌀 **[Turing-Landau](https://github.com/MOC-G3C/Turing-Landau)** | `✅ STABLE` | Cognitive Gravity & Mathematical Damping |
+| 📉 **[Project λ (Lambda)](https://github.com/MOC-G3C/Project-Lambda)** | `📉 DECAY` | Programmed Ethical AI Obsolescence |
+| 🕸️ **[Project Anamnesis](https://github.com/MOC-G3C/Project-Anamnesis)** | `🧠 TRACE` | Topological Memory & Resilience |
+| 🧬 **[Kinetic-RNG](https://github.com/MOC-G3C/Kinetic-RNG)** | `🔋 ACTIVE` | 1.3M+ Biological Entropy Data Points |
+| 🎭 **[Janus Gateway](https://github.com/MOC-G3C/Janus-Gateway)** | `🏛️ ROOT` | Global Hybrid Interface & Governance |
+
+---
