@@ -4,8 +4,8 @@
 
 ---
 
-## I. SOVEREIGNTY (THE 40-YEAR PERSPECTIVE)
-At 40, we do not seek to be replaced by machines, but to be amplified by them. **L'AXE HYBRIDE** is a declaration of human independence. We reject total automation; the **M.O.C. Operator** retains absolute veto power over all AI logic.
+## I. SOVEREIGNTY (THE MATURE PERSPECTIVE)
+With experience, we do not seek to be replaced by machines, but to be amplified by them. **L'AXE HYBRIDE** is a declaration of human independence. We reject total automation; the **M.O.C. Operator** retains absolute veto power over all AI logic.
 
 ## II. THE BIOLOGICAL ANCHOR
 This system is not built on abstract logic, but on a unique biological signature. Our simulation is tethered to a raw entropy pool of **1,336,528 data points**.
