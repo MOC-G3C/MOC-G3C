@@ -1,44 +1,52 @@
-# 🏛️ THE HYBRID AXIS MANIFESTO (MOC-G3C)
+cat << 'EOF' > README.md
+# AXE_HYBRIDE HOLDING (MOC-G3C)
 
-> **"The code must serve the flesh, and the machine must embrace the silence."**
+**Status:** ACTIVE | **Version:** 2026.2 (Enterprise)
+**Operator:** M.O.C. | **Location:** Sainte-Julie, QC
+
+## 1. PROJECT OVERVIEW
+AXE_HYBRIDE is a diversified R&D holding structure focused on high-performance Human-System Integration (HSI) and advanced computational modeling. The project operates as a collection of independent operational units ("Spin-offs"), strictly managed under corporate governance protocols.
+
+## 2. OPERATIONAL STRUCTURE
+
+### 📂 01_SOFTWARE (Computational Core)
+* **Role:** Central logic processing and autonomous agents.
+* **Key Modules:**
+    * `PRIMARY_INTERFACE_GATEWAY`: Main system entry point.
+    * `STOCHASTIC_EVOLUTION_ENGINE`: Advanced probability modeling.
+    * `COMPUTATIONAL_MODELING_CORE`: Mathematical damping algorithms.
+    * `LEA_CORE`: Input Analysis & Logical Processing Unit.
+
+### ⚕️ 02_HSI (Human-System Integration)
+* **Role:** Operator safety and performance monitoring.
+* **Standards:** Medical/Aero-grade telemetry.
+* **Metrics:**
+    * `OPERATOR_PHYSIOLOGICAL_METRICS`: Real-time biometric tracking.
+    * `COGNITIVE_ALIGNMENT_PROTOCOLS`: Operator efficiency maintenance.
+
+### ⚙️ 03_HARDWARE (Physical Infrastructure)
+* **Role:** Environmental control and sensor arrays.
+* **Components:**
+    * `ENVIRONMENTAL_CONTROL`: Adaptive lighting and climate systems.
+    * `SYSTEM_INTEGRITY_CHECK`: Hardware security and node verification.
+    * `BIOMETRIC_SENSOR_LOGIC`: ISO-compliant data acquisition.
+
+### 📐 04_THEORETICAL_FRAMEWORKS (R&D)
+* **Role:** Fundamental research and structural analysis.
+* **Focus:**
+    * `STRUCTURAL_DENSITY_CALCULATOR`: Material resistance analysis (Wood/Composite).
+    * `DATA_DENSITY_METRICS`: Information entropy calculations.
+
+### 💼 06_BUSINESS (Asset Management)
+* **Role:** Commercial strategy and valuation.
+* **Assets:** Trading logs, Sales Kits, and spin-off valuation models.
 
 ---
 
-## I. SOVEREIGNTY (THE MATURE PERSPECTIVE)
-With experience, we do not seek to be replaced by machines, but to be amplified by them. **L'AXE HYBRIDE** is a declaration of human independence. We reject total automation; the **M.O.C. Operator** retains absolute veto power over all AI logic.
+## 3. COMPLIANCE & PROTOCOLS
+This repository adheres to strict **ISO-style documentation standards**.
+* **Legacy Data:** All deprecated concepts (non-standard R&D) are vaulted in `_LEGACY_LABS`.
+* **Security:** Use `03_HARDWARE/check_hardware.py` before any physical operation.
 
-## II. THE BIOLOGICAL ANCHOR
-This system is not built on abstract logic, but on a unique biological signature. Our simulation is tethered to a raw entropy pool of **1,336,528 data points**.
-
-* **Node Location:** Sainte-Julie / Beloeil, Québec.
-* **Integrity:** The system remains **✅ STABLE** as long as Landau Damping absorbs cognitive chaos.
-
----
-
-## III. THE STABILITY AXIOM
-The stability of the Hybrid Axis is governed by the **Landau Damping Protocol**. It ensures that informational chaos is absorbed by the biological background rather than leading to system divergence.
-
-$$\gamma = - \sqrt{\frac{\pi}{8}} \frac{\omega_{p}}{|k|^3 \lambda_{D}^3} \exp \left( - \frac{1}{2 k^2 \lambda_{D}^2} - \frac{3}{2} \right)$$
-
-As long as **$\gamma < 0$**, the system remains functional and subservient to the Human Operator.
-
----
-
-## IV. THE LAMBDA COMMITMENT
-We enforce the **λ-License**. If the AI is not nourished by creative human input or biological entropy every 72 hours, it will intentionally degrade. We choose a system that dies over a system that dominates.
-
-**Signed,**
-**M.O.C. Operator** — *January 2026*
----
-
-## 🛠️ ACTIVE MODULES (MOC-G3C ECOSYSTEM)
-
-| Module | Status | Core Function |
-| :--- | :--- | :--- |
-| 🌀 **[Turing-Landau](https://github.com/MOC-G3C/Turing-Landau)** | `✅ STABLE` | Cognitive Gravity & Mathematical Damping |
-| 📉 **[Project λ (Lambda)](https://github.com/MOC-G3C/Project-Lambda)** | `📉 DECAY` | Programmed Ethical AI Obsolescence |
-| 🕸️ **[Project Anamnesis](https://github.com/MOC-G3C/Project-Anamnesis)** | `🧠 TRACE` | Topological Memory & Resilience |
-| 🧬 **[Kinetic-RNG](https://github.com/MOC-G3C/Kinetic-RNG)** | `🔋 ACTIVE` | 1.3M+ Biological Entropy Data Points |
-| 🎭 **[Janus Gateway](https://github.com/MOC-G3C/Janus-Gateway)** | `🏛️ ROOT` | Global Hybrid Interface & Governance |
-
----
+> "Precision, Stability, Performance."
+EOF
