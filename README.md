@@ -1,8 +1,4 @@
 # AXE_HYBRIDE HOLDING (MOC-G3C)
-
-**Status:** ACTIVE | **Version:** 2026.2  
-**Operator:** M.O.C. | **Location:** Sainte-Julie, QC
-
 ---
 
 ## Overview
